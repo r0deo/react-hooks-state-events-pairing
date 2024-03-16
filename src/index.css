@@ -10,3 +10,9 @@ body {
 .App {
   text-align: center;
 }
+
+.btn-toggle{
+  display: flex;
+  margin-left: 46%;
+  margin-top: 2%;
+ }
